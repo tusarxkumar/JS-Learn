@@ -7,8 +7,6 @@ console.log(Math.floor(4.5))
 console.log("Mix & Max")
 console.log(Math.min(4,5,2))
 console.log(Math.max(41,5,2))
-console.log(Math.max(10,20,43,44,21));
-
 
 // Finding a random number between min_value and max_value 
 const min = 10;
