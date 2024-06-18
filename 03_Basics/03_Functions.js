@@ -1,3 +1,10 @@
+// Preferred way to create a function 
+
+// const addNumber = (number1 , number2) => {
+//     return number1 + number2
+// }
+// console.log(addNumber(3,5))
+
 function addNumber(number1 , number2){
     return number1 + number2;
 }
